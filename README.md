@@ -4,9 +4,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Netflix-Review-Analysis)
 ![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Netflix-Review-Analysis)
 
-![Netflix Review](https://github.com/Sivaprasad-creator/Netflix-Review-Analysis/blob/main/netflix_banner.jpg)
-
 ---
+
+![image alt](https://github.com/Sivaprasad-creator/Netflix-Review-Analysis/blob/eb04040b9d2a16253e0c4fa4559c28244333fdbb/Netflix.jpg)
 
 ## 📌 Project Title
 
