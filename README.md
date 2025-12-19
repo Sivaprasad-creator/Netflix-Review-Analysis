@@ -84,6 +84,14 @@ This project includes a **Streamlit app** for real-time sentiment prediction:
 
 ---
 
+## Deployment Preview
+
+![image alt](https://github.com/Sivaprasad-creator/Netflix-Review-Analysis/blob/master/netflix_positive.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Netflix-Review-Analysis/blob/master/netflix_negative.png)
+
+---
+
 ## 🛠️ How to Run Locally
 
 1. **Clone the Repository**
